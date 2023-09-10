@@ -7,5 +7,4 @@ Tensorflowjs (tfjs) pretrained model integration with react to acheive live obje
 
 ----------
 
-react code in FrontEnd folder 
-Model json in parent directory
+Model is loaded from tensorflowjs library 
